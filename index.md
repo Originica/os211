@@ -6,5 +6,7 @@ Hallo!
 
 This is {{ site.title }} and I am {{ site.author }}, {{ site.address }}.
 
-Qapla, Jolan Tru!<br>[====](GitHubPages/)[======](REPORT/00/)
+I look forward to learn together.
+
+<br>[====](GitHubPages/)[======](REPORT/00/)
 
