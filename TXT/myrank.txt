@@ -2,3 +2,6 @@
 ZCZC W01 dnswd
 ZCZC W01 faishol01
 ZCZC W01 stevensim226
+ZCZC W02 Pinatnat
+ZCZC W02 RadhiansyaZ
+ZCZC W02 raflibangsawan
